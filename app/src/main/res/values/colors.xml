@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="black">#212121</color>
+    <color name="white">#FFFFFF</color>
+    <color name="beige">#F5F5F5</color>
+    <color name="primary_color">#1D3557</color>
+    <color name="accent_color">#FFD700</color>
+    <color name="background_color">#F4F4F9</color>
+    <color name="surface_color">#FFFFFF</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="button_color">#3E4A59</color>
+    <color name="button_text_color">#FFFFFF</color>
+    <color name="error_color">#D32F2F</color>
+    <color name="success_color">#388E3C</color>
+    <color name="image_placeholder_border">#B0BEC5</color>
+    <color name="toolbar_text_color">#FFFFFF</color>
 </resources>
